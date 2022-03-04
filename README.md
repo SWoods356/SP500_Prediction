@@ -10,7 +10,7 @@ Historical close prices are plotted for the prior five years along with bollinge
 
 For LSTM model prep, 80% of data was split for training and 20% for testing. Adjusted close prices were min max transformed. Training data was formatted with a look back period of 60 days.
 
-# Modeling - Convolutional Neural Nets
+# Modeling - LSTM Recurrent Neural Networks
 
 Two LSTM RNN models were used to fit and predict SP500 closing prices for the next 30 days. Both models had similar performance. The higher performing model achieved an RMSE of 66.58 on training data and 122.35 on testing data. 
 
