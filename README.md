@@ -21,4 +21,6 @@ Predictions vs Actual:
 ![image](https://user-images.githubusercontent.com/85903905/156837602-c8c0150d-4746-412d-a363-2e0d3d68f89f.png)
 
 Predictions for next 30 days:
-![image](https://user-images.githubusercontent.com/85903905/156837955-58e08c31-4093-4302-86dc-d7b4c10287cc.png)
+
+![image](https://user-images.githubusercontent.com/85903905/156838092-50f072cf-ff4f-4161-96c5-e21e3a59041a.png)
+
